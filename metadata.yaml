@@ -1,0 +1,29 @@
+_repo: Character-Writings-of-the-Seventeenth-Century_10699
+_version: 0.0.1
+alternative_title: Character Writings of the 17th Century
+creator:
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Characters and characteristics in literature'
+- !lcsh 'English literature'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Character writing before the Seventeenth century -- Character writings
+  of the Seventeenth century -- Character writings after the Seventeenth century.
+title: Character Writings of the Seventeenth Century
+url: http://www.gutenberg.org/ebooks/10699
