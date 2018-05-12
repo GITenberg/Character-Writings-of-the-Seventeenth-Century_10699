@@ -1,6 +1,9 @@
 _repo: Character-Writings-of-the-Seventeenth-Century_10699
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Character Writings of the 17th Century
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Morley, Henry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10699#Character-Writings-of-the-Seventeenth-Century
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
